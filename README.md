@@ -1,4 +1,4 @@
-## Embedded Systems Showcase – ATmega16 Assembly Projects for Real‑World Hardware Control
+# Embedded Systems Showcase – ATmega16 Assembly Projects for Real‑World Hardware Control
 
 ### Project Overview  
 This repository contains a collection of **ATmega16 assembly programs** focused on hardware control and automation projects.  
